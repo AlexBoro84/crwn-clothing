@@ -5,6 +5,7 @@ import './Homepage.scss'
 const homepage = (props) => {
     return (
         <div className='homepage'>
+
             <Directory />
         </div>
     )
